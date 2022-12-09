@@ -1,6 +1,8 @@
 #include <stdio.h>
 /*
- * main - Print a line of code using puts function
+ * man - Print a line of code using puts function
+ *
+ * Description: 'write a C program that prints to the screen'
  *
  * Return: 0
  */
